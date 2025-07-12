@@ -1,0 +1,6 @@
+cryptography>=45.0.4
+pillow>=11.3.0
+python-telegram-bot==20.7
+pytoniq>=0.1.41
+pytoniq-core>=0.1.43
+qrcode[pil]>=8.2
