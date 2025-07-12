@@ -19,7 +19,7 @@ from pytoniq import LiteBalancer, WalletV4R2, WalletV4, Wallet
 from pytoniq_core import Address, Cell, begin_cell
 
 # Bot token from environment
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8000939555:AAGzOLR12_xdI_HOWamVKisvxIXFsvTsiao")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7564333956:AAG9IzW8dEyuyLG11U2f7dhFCfOFvGoLFk4")
 
 # Conversation states
 (WAITING_FOR_MNEMONIC, WAITING_FOR_VERSION, WAITING_FOR_WITHDRAW_ADDRESS, 
